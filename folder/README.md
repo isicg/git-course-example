@@ -9,3 +9,5 @@ hi
 another line
 
 goodbye
+
+docs
